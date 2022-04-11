@@ -1,0 +1,54 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Hazem Saeed",
+      "status": "added"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed Mohammed",
+      "status": "approved"
+    },
+    {
+      "id": 3,
+      "name": "Menna Ahmed",
+      "status": "approved"
+    },
+    {
+      "id": 4,
+      "name": "Kamal Youssef",
+      "status": "added"
+    },
+    {
+      "id": 5,
+      "name": "Amira Ali",
+      "status": "added"
+    },
+    {
+      "id": 6,
+      "name": "Mohab Mahmoud",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "name": "Enjy Morsy",
+      "status": "approved"
+    },
+    {
+      "id": 8,
+      "name": "Noura Hussein",
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "name": "gagg",
+      "status": "added"
+    },
+    {
+      "id": 10,
+      "name": "hassan",
+      "status": "inactive"
+    }
+  ]
+}
